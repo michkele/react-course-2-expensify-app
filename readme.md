@@ -1,8 +1,7 @@
-@ Git commands
+# Git Commands
 
-git init - Create a new git reo
+git init - Create a new git repo
 git status - View the changes to your project code
-git add <FileName> - Add files to staging area
-git add . - Add all files to staging area
-git commit -m "Note" - commit changeset with note
-git log - View Recent commits
+git add - Add files to staging area
+git commit - Creates a new commit with files from staging area
+git log - View recent commits
